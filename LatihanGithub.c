@@ -6,6 +6,8 @@
  Tgl/Versi : 2 November 2022/ 01
  */
  
+ //Bhisma
+ 
 #include<stdio.h>
 // deklarasi modul
 float hitungLuasPersegiPanjang(float p, float l);
